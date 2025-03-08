@@ -24,12 +24,12 @@ const page = () => {
                 btnurl="/contact"
                 btntwo="Let's Collaborate"
                 btn2url="/about"
-                cusimg="/assets/images/intro/introProfileThumb1_1.png"
+                cusimg="/assets/images/hero/03.png"
                 cusnumber="2,291"
                 cuscontent="Happy Customers"
                 rating="4.8/5"
                 ratingcon="Rating"
-                img="/assets/images/intro/introThumb1_1.png"
+                img="/assets/images/hero/03.png"
             ></HeroBanner1>
             <Brand1></Brand1>
             <About1
@@ -39,11 +39,12 @@ const page = () => {
                 title=" Design, I Animate, I Make Pixels Behave! 🎨✨"
                 content="Websites. Videos. Animations. Graphic Designs. I do it all—so your brand looks nothing less than epic!"
                 FeatureList={[
-                    "Sleek Websites – Because first impressions matter.",
-                    "Scroll-Stopping Videos – No boring edits, only 🔥 content.",
-                    "Eye-Catching Animations – Bringing your ideas to life, one frame at a time.",
-                    "Bold Graphic Designs – Making brands look sharp, not like a PowerPoint slide.",
-                ]}
+                    "Websites", 
+                    "Videos",
+                    "Animations",
+                    "Graphic Designs",
+                    "YouTube thumbnail",
+                    ]}
                 btnname="Let’s Work Together"
                 btnurl="/about"
             ></About1>
